@@ -7,5 +7,5 @@ This repository contains three programs developed back in high school.
        Objective: Not take the last stone
 
 2. Snake game -
-        Requirements: Installing "Pygame" library, picture of snake head, picture of apple, picture of tail
+        Requirements: Installing "Pygame" library, picture of snake head, picture of apple, picture of tail, picture of an icon
         Objective: Eat as many apples without colliding with the snake tail
